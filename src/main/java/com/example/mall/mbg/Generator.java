@@ -1,4 +1,4 @@
-package com.example.mall.mgb;
+package com.example.mall.mbg;
 
 import org.mybatis.generator.api.MyBatisGenerator;
 import org.mybatis.generator.config.Configuration;
